@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Md Farhan, a 2nd year B.Tech(CSE) student at Mittal Institute of Technology, Bhopal.
+- 👋 Hi, I’m Md Farhan, a 3rd year B.Tech(CSE) student at Mittal Institute of Technology, Bhopal.
 - 👀 I’m interested in learning new languages.
-- 🌱 I’m currently learning React Js and React Native.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on some of the Real-Life Projects.
 - 📫 You can reach me out at @https://www.linkedin.com/in/farhanonymous/
 
