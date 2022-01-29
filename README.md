@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on some of the Real-Life Projects.
-- 📫 You can reach me out at @https://www.linkedin.com/in/farhanonymous/
+- 📫 You can reach me out at Er.Farhan2000@gmail.com
 
 <!---
 FarhAnonymous/FarhAnonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
