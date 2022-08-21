@@ -2,7 +2,7 @@
 <h2>About Me 👨‍🎓</h2>
 
 <li> 👀 I am a last year B.Tech(CSE) student at Mittal Institute of Technology, Bhopal.</li>
-<li> 💻 I’m currently learning Java and Data Structures and Algorithms. ✅</li>
+<li> 💻 I’m currently learning Java and Data Structures & Algorithms. ✅</li>
 <li> 💞 I have interest in App Development.</li>
 <li> 🙌 Looking forward to collaborate in Open Source Projects.</li>
 
