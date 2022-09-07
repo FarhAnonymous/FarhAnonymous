@@ -3,7 +3,7 @@
 
 <li> 👀 I am a final year B.Tech(CSE) student at Mittal Institute of Technology, Bhopal.</li>
 <li> 💻 I’m currently learning Java and Data Structures & Algorithms. ✅</li>
-<li> 💞 Exploring Front-end Development.</li>
+<li> 💞 Exploring Front-End Development.</li>
 <li> 🙌 Looking forward to collaborate in Open Source Projects.</li>
 
 ## Feel Free To Connect With Me!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
