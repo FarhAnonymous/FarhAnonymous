@@ -1,4 +1,4 @@
-<h1>Hello, I am Farhan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hi, I am Farhan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>About Me 👨‍🎓</h2>
 
 <li> 👀 I am a final year B.Tech(CSE) student at Mittal Institute of Technology, Bhopal.</li>
