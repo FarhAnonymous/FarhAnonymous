@@ -39,6 +39,6 @@
 
 
 <!---
-FarhAnonymous/FarhAnonymous is a ✨ Special ✨ repository because it is `README.md` (this file) appears on your GitHub profile.
+FarhAnonymous/FarhAnonymous is a ✨ Special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
