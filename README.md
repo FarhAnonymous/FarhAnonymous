@@ -1,7 +1,7 @@
 <h1>Hello, I am Farhan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>About Me 👨‍🎓</h2>
 
-<li> 👀 I am a final year B.Tech(CSE) student at Mittal Institute of Technology, Bhopal.</li>
+<li> 👀 I am a final year B.Tech(Computer Science) student.</li>
 <li> 💻 I’m currently learning Java and Data Structures & Algorithms. ✅</li>
 <li> 💞 Exploring Front-End Development.</li>
 <li> 🙌 Looking forward to collaborate in Open Source Projects.</li>
