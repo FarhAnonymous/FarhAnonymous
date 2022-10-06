@@ -2,7 +2,7 @@
 <h2>About Me 👨‍🎓</h2>
 
 <li> 👀 I am a final year B.Tech(CSE) student.</li>
-<li> 💻 I’m currently learning Java and Data Structures & Algorithms. ✅</li>
+<li> 💻 I’m currently learning Data Structures & Algorithms using Java. ✅</li>
 <li> 💞 Exploring Front-End Development.</li>
 <li> 🙌 Looking forward to collaborate in Open Source Projects.</li>
 
