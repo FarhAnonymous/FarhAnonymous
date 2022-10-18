@@ -1,10 +1,10 @@
 <h1>Hello, I am Farhan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>About Me 👨‍🎓</h2>
 
-<li> 👀 I am a final year B.Tech(CSE) student.</li>
-<li> 💻 I’m currently learning Data Structures & Algorithms using Java. ✅</li>
-<li> 💞 Exploring Front-End Development.</li>
-<li> 🙌 Looking forward to collaborate in Open Source Projects.</li>
+<li> 🐱‍👤 I am a final year Computer Science student.</li>
+<li> 💻 I’m learning Data Structures & Algorithms using Java. ✅</li>
+<li> 💞 Exploring Web Development.</li>
+<li> 👯 Looking forward to collaborate in Open Source Projects.</li>
 
 ## Feel Free To Connect With Me!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
 
