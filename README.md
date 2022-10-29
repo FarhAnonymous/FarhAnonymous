@@ -2,7 +2,7 @@
 <h2>About Me 👨‍🎓</h2>
 
 <li> 🐱‍👤 I am a Senior Computer Science student.</li>
-<li> 💻 I’m learning Data Structures & Algorithms using Java. ✅</li>
+<li> 💻 Learning Data Structures & Algorithms using Java. ✅</li>
 <li> 💞 Exploring Web Development.</li>
 <li> 👯 Looking forward to collaborate in Open Source Projects.</li>
 
