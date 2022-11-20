@@ -3,7 +3,7 @@
 
 <li> 🐱‍👤 I am a Senior Computer Science student.</li>
 <li> 💻 Learning Data Structures & Algorithms using Java. ✅</li>
-<li> 💞 Exploring Web Development.</li>
+<li> 💞 Exploring Fullstack Java Development.</li>
 <li> 👯 Looking forward to collaborate in Open Source Projects.</li>
 
 ## Feel Free To Connect With Me!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
