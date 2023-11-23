@@ -1,14 +1,14 @@
 <h1>Hello World 🌍, I am Farhan  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2>About Me 👨‍🎓</h2>
 
-<li> 🐱‍👤 I am a final year Computer Science student.</li>
+<li> 🐱‍👤 I am a Computer Science Graduate.</li>
 <li> 💻 Learning Data Structures & Algorithms using Java. ✅</li>
 <li> 💞 Exploring Fullstack Java Development.</li>
 <li> 👯 Looking forward to collaborate in Open Source Projects.</li>
 
 ## Feel Free To Connect With Me!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="40px" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarhAnonymous)
+*[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FarhAnonymous)*
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanonymous/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.farhan2000@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14277705/farhan)
@@ -39,6 +39,6 @@
 
 
 <!---
-FarhAnonymous/FarhAnonymous is a ✨ special ✨ repository because it's `README.md` (this file) appears on your GitHub profile.
+FarhAnonymous/FarhAnonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your change.
 --->
