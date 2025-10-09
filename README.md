@@ -7,7 +7,7 @@
 
 ### 🧑‍🎓 About Me  
 
-- 🎓 I’m a **Computer Science Graduate**, currently pursuing **Master’s by Research in Aerospace Engineering** (Computer Vision & Deep Learning).  
+- 🎓 I’m a **Computer Science Graduate**, currently pursuing **Master’s by Research in Aerospace Engineering** (Computer Vision & Deep Learning) from **Universiti Sains Malaysia**.  
 - 💻 My research revolves around **CNNs, Transformers**, and their **deployment on edge devices and drones** for real-world applications.  
 - 🧠 Passionate about **AI, Deep Learning, and Edge Computing**.  
 - 🌐 Building cool stuff using various programming languages.  
