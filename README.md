@@ -1,4 +1,4 @@
-<h1 align="center">Hey there , I'm <span style="color:#6C63FF;">Farhan</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm <span style="color:#6C63FF;">Farhan</span> 👨🏻‍💻 </h1>
 <h3 align="center">🚀 Passionate Developer | Researcher | AI Explorer 🌱</h3>
 
 
