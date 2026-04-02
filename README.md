@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey! I am Farhan. Hope you are having a good day <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74000&width=705&lines=Passionate+Developer+👨🏼‍💻.+Researcher+📝.+AI+Explorer+🔍.;Working+on+AI,+because+natural+intelligence+needs+backup!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74000&width=705&lines=Passionate+Developer+👨🏼‍💻.+AI+Researcher+📝.+Engineer+👨🏼‍🎓.;Working+on+AI,+because+natural+intelligence+needs+backup!" />
   </a>
 </p>
 
